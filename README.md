@@ -1,4 +1,4 @@
-<img src="./.assets/rust-banner.jpg" width="500">
+<img src="./.assets/banner.png" width="500">
 
 # 🎄 Advent of Code 2025
 
